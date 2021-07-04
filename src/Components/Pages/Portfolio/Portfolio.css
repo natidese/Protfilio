@@ -1,0 +1,32 @@
+.MyCards{
+ background-color: black;
+}
+
+
+.cardInfo{
+    font-family: 'Crimson Text', serif;
+    font-size: 20px;
+}
+ 
+.btnToWebsite{
+    color: black;
+    text-decoration:none;
+}
+
+
+
+.LinkBtn{
+    width: 100%;
+    background-color: #ffffff;
+    color: rgb(0, 0, 0);
+    /* padding: 14px 20px; */
+    /* margin: 8px 0; */
+    border: 1px solid rgb(8, 8, 8);
+    border-radius: 4px;
+    cursor: pointer;
+  }
+  
+  .LinkBtn:hover {
+    background-color: #91909071;
+    color: rgb(255, 255, 255);
+  }

@@ -1,0 +1,9 @@
+.MySideBar{
+    display: flex;
+    justify-content: flex-start;
+    
+}
+
+.mainHeader{
+width: 100vw;
+}

@@ -1,0 +1,15 @@
+.MyCards{
+ display:flex;
+ flex-wrap:wrap;
+ justify-content: space-evenly;
+
+}
+
+
+.MyHeader{
+    color:white ;
+     text-align:center;
+       font-Size:40px;
+       text-decoration:underline;
+       font-family: 'Cinzel', serif;
+}

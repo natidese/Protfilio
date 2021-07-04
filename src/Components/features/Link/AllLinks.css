@@ -1,0 +1,41 @@
+
+.buttons{
+  padding: 16px ;
+  /* text-align: center; */
+  /* text-decoration: none; */
+  /* display: inline-block; */
+  font-size: 16px;
+  transition-duration: 0.5s;
+  cursor: pointer;
+  background-color: rgb(0, 0, 0); 
+  color: rgb(255, 255, 255); 
+  /* margin-top: unset; */
+  border: 1px solid rgb(238, 238, 238);
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: flex-end;
+
+}
+.buttons > a {
+  width: 100%;
+  font-size: 16px;
+  transition-duration: 0.5s;
+  cursor: pointer;
+
+
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: flex-end;
+}
+
+.myLogo{
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: flex-end;
+  width: 10vw;
+}
+
+.buttons:hover{
+    background-color: #ffffff;
+    color: rgb(0, 0, 0);
+}

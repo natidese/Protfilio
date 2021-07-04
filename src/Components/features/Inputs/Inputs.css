@@ -1,0 +1,39 @@
+.contactForm{
+    color:white ;
+    padding: 80px 150px;
+    width: 300px;
+    
+}
+
+
+
+  .MyInput {
+    width: 100%;
+    /* padding: 25px 150px; */
+    padding-right:50px ;
+    padding-bottom: 20px;
+    margin: 8px 0;
+    display: inline-block;
+    border: 1px solid rgb(255, 255, 255);
+    border-radius: 4px;
+    box-sizing: border-box;
+  }
+  
+
+  
+
+.ContectBtn{
+    width: 100%;
+    background-color: #000000;
+    color: rgb(250, 250, 250);
+    padding: 14px 20px;
+    margin: 8px 0;
+    border: 1px solid rgb(255, 255, 255);
+    border-radius: 4px;
+    cursor: pointer;
+  }
+  
+  .ContectBtn:hover {
+    background-color: #fcfcfc;
+    color: rgb(0, 0, 0);
+  }
